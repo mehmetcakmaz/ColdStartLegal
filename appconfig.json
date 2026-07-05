@@ -1,5 +1,5 @@
 {
-  "minVersion": "1.1",
-  "mode": "force",
-  "message": "An important update to ColdStart is available."
+  "minVersion": "1.0",
+  "mode": "soft",
+  "message": ""
 }
